@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+Pillow = "*"
+graphene-django = "*"
+bpython = "*"
+django-heroku = "*"
+gunicorn = "*"
+whitenoise = "*"
+raven = "*"
+dj-database-url = "*"
+django-cors-headers = "*"
+"django-bootstrap4" = "*"
+sorl-thumbnail = "*"
+"html2text" = "*"
+django = ">2.1"
+psycopg2-binary = "*"
+django-graphql-jwt = "*"
+
+[dev-packages]
+django-extensions = "*"
+django-debug-toolbar = "*"
+coverage = "*"
+coveralls = "*"
+"flake8" = "*"
+pytest = "*"
+pdbpp = "*"
+pytest-django = "*"
+pywatchman = "*"
+
+[requires]
+python_version = "3.6"

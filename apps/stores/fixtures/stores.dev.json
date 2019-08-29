@@ -1,0 +1,32 @@
+[
+{
+  "model": "stores.store",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "name": "Falabella",
+    "slug": "falabella",
+    "description": "Lorem Ipsum"
+  }
+},
+{
+  "model": "stores.store",
+  "pk": 2,
+  "fields": {
+    "owner": 4,
+    "name": "Paris",
+    "slug": "paris",
+    "description": ""
+  }
+},
+{
+  "model": "stores.store",
+  "pk": 3,
+  "fields": {
+    "owner": 3,
+    "name": "Ripley",
+    "slug": "ripley",
+    "description": ""
+  }
+}
+]

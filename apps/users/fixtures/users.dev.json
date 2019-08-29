@@ -1,0 +1,158 @@
+[
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$CAJHhyDikNAl$3MmZ7MNjcr6tVDbjYTvxAEs7ilYieLHehm1mFkUmYIg=",
+    "last_login": "2019-08-29T22:56:20.553Z",
+    "is_superuser": true,
+    "first_name": "Sa\u00fal",
+    "last_name": "Hormaz\u00e1bal",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-25T18:44:56Z",
+    "avatar": "",
+    "email": "saul.hormazabal@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$c0xSdbtLcwWK$ABSHe1Jn9ZlY5GaSMEec39h50QAczWDZ5yaLjuEZaAg=",
+    "last_login": "2019-08-26T00:28:48.712Z",
+    "is_superuser": false,
+    "first_name": "Elba",
+    "last_name": "Lazo",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-25T19:32:11Z",
+    "avatar": "",
+    "email": "elba.lazo@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "users.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$7DQ8ObjitKDb$JaHNV/Mavg5WupLSanABym6iv0beksa1MMeNs4PTYD0=",
+    "last_login": "2019-08-26T00:29:07.137Z",
+    "is_superuser": false,
+    "first_name": "Alan",
+    "last_name": "Brito",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-25T20:48:11Z",
+    "avatar": "",
+    "email": "alan.brito@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "users.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$ZiwtlWa6HlW9$BegNM2szmbfZKSSsCPZgXDEPcN7XKCWbyQw2USkYNQw=",
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "Zoila",
+    "last_name": "Cerda",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-25T20:51:10Z",
+    "avatar": "",
+    "email": "zoila.cerda@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "users.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$BuaKCP78cHG4$XtQtU6Cv2v2yUohwFV/4Hc96PTallu7OCMPii/Rm1XA=",
+    "last_login": "2019-08-26T00:28:28Z",
+    "is_superuser": false,
+    "first_name": "Armando",
+    "last_name": "Casas",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-25T23:18:06Z",
+    "avatar": "",
+    "email": "armando.casas@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "users.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$ASK8enZJNZ58$1q15kxB48HsODEJHI9mvmGnRJsHW0+2ujQXSO2YhF6o=",
+    "last_login": "2019-08-29T22:58:06.906Z",
+    "is_superuser": false,
+    "first_name": "Zacarias",
+    "last_name": "Flores",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-26T00:31:20Z",
+    "avatar": "",
+    "email": "zacarias.flores@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "users.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$v91fvFMQAxbp$ZgKRBq12NFh2e2LegJlegMuLi8LQKZ7CDnOc4UUp2n0=",
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-08-26T00:38:18.161Z",
+    "avatar": "",
+    "email": "rosa.espinoza@tests.com",
+    "groups": [],
+    "user_permissions": [
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}
+]

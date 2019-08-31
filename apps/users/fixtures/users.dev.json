@@ -32,12 +32,7 @@
     "avatar": "",
     "email": "elba.lazo@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 },
 {
@@ -55,12 +50,7 @@
     "avatar": "",
     "email": "alan.brito@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 },
 {
@@ -78,12 +68,7 @@
     "avatar": "",
     "email": "zoila.cerda@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 },
 {
@@ -101,12 +86,7 @@
     "avatar": "",
     "email": "armando.casas@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 },
 {
@@ -124,12 +104,7 @@
     "avatar": "",
     "email": "zacarias.flores@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 },
 {
@@ -147,12 +122,7 @@
     "avatar": "",
     "email": "rosa.espinoza@tests.com",
     "groups": [],
-    "user_permissions": [
-      29,
-      30,
-      31,
-      32
-    ]
+    "user_permissions": []
   }
 }
 ]

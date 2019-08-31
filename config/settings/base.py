@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'sorl.thumbnail',
 
+    'categories',
     'users',
     'stores',
 ]

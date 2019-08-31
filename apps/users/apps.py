@@ -8,6 +8,6 @@ class UsersConfig(AppConfig):
     verbose_name = 'Users'
 
     def ready(self):
-        from .signals import add_permissions_to_user
+        from .signals import signal_user_post_save
 
-        post_save.connect(add_permissions_to_user, sender='users.User')
+        post_save.connect(signal_user_post_save, sender='users.User')
